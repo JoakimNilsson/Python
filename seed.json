@@ -1,0 +1,111 @@
+{
+    "Teams":[
+        {
+            "teams": "Hammarby",
+            "location": "Södermalm",
+            "short": "HIF"
+        },
+        {
+            "teams": "AIK",
+            "location": "Solna",
+            "short": "AIK"
+        },
+        {
+            "teams": "Djurgården",
+            "location": "Skansen",
+            "short": "DIF"
+        },
+        {
+            "teams": "Malmö",
+            "location": "Malmö",
+            "short": "MFF"
+        },
+        {
+            "teams": "Göteborg",
+            "location": "GBG",
+            "short": "IFK"
+        },
+        {
+            "teams": "Kalmar",
+            "location": "Kalmar",
+            "short": "Kalmar FF"
+        },
+        {
+            "teams": "Sirius",
+            "location": "Uppsala",
+            "short": "SFF"
+        },
+        {
+            "teams": "Häcken",
+            "location": "Göteborg",
+            "short": "HFF"
+        },
+        {
+            "teams": "Brommapojkarna",
+            "location": "Stockholm",
+            "short": "BFF"
+        },
+        {
+            "teams": "Frej",
+            "location": "Stockholm",
+            "short": "IKF"
+        },
+        {
+            "teams": "Assyriska",
+            "location": "Södertälje",
+            "short": "AFF"
+        }
+    ],
+    "Players": [
+        {
+            "first_name": "Joakim",
+            "last_name": "Nilsson",
+            "age": 23
+        },
+        {
+            "first_name": "Mohammed",
+            "last_name": "Ali",
+            "age": 76
+        }, 
+        {
+            "first_name": "Robert",
+            "last_name": "Gustavsson",
+            "age": 52
+        }, 
+        {
+            "first_name": "Simon",
+            "last_name": "Caris",
+            "age": 26
+        }, 
+        {
+            "first_name": "Anton",
+            "last_name": "Antonsson",
+            "age": 29
+        }, 
+        {
+            "first_name": "Sebastian",
+            "last_name": "Larsson",
+            "age": 19
+        }, 
+        {
+            "first_name": "David",
+            "last_name": "Beckham",
+            "age": 47
+        }, 
+        {
+            "first_name": "Andreas",
+            "last_name": "Lindqvist",
+            "age": 22
+        }, 
+        {
+            "first_name": "Robin",
+            "last_name": "Qvist",
+            "age": 27
+        }, 
+        {
+            "first_name": "Magdalena",
+            "last_name": "Svensson",
+            "age": 20
+        }
+    ]
+} 
